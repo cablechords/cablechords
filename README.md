@@ -36,6 +36,5 @@
 
 <div align="center">
   <h1 style="text-align:center;">Heya. My name is Cable (CHORDS!)</h1>
-  <h3>or Jessie T. depending on who you ask.</h3>
-  <p>I make little peices of software that I enjoy working on.</p>
+  <p>I make little peices of software that some people like, most of which can be found on the <a href="https://www.github.com/Sinislosion">Sinislosion</a> github page.</p>
 </div>
