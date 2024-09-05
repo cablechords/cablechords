@@ -38,3 +38,9 @@
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
 </div>
+
+<div align="center">
+  <h1>Heya. My name is Cable (CHORDS!)</h1>
+  <h3>or Jessie T. depending on who you ask.</h3>
+  <p>I make little peices of software that I enjoy working on.</p>
+</div>
