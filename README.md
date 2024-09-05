@@ -38,9 +38,3 @@
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/cablechords/cablechords/output/snake.svg" alt="Snake animation" />
-
-###
