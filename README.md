@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cablechords.com/boing168-64-200.gif"  />
+<img align="right" height="150" width="150" src="https://cablechords.com/boing168-64-200.gif"  />
 
 ###
 
