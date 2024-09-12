@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://www.discord.com/invite/bmX4NNfcPJ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Sinislosion%20Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:jessie@sinislosion.net" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
