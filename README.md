@@ -22,7 +22,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.discord.com/invite/bmX4NNfcPJ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -34,7 +34,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <h1 style="text-align:center;">Heya. My name is Cable (CHORDS!)</h1>
   <p>I make little peices of software that some people like, most of which can be found on the <a href="https://www.github.com/Sinislosion">Sinislosion</a> github page.</p>
   <p>I have over 4 years of experience in C and C++, about a year of experience with Unity, C#, and Java, and over 12 years of experience with GameMaker Studio. I also dabble in a bit of 6502 ASM</p>
