@@ -37,5 +37,5 @@
 <div align="left">
   <h1 style="text-align:center;">Heya. My name is Cable (CHORDS!)</h1>
   <p>I make little peices of software that some people like, most of which can be found on the <a href="https://www.github.com/Sinislosion">Sinislosion</a> github page.</p>
-  <p>&emsp;I have over 5 years of experience in C and C++, about a year of experience with Unity, C#, and Java, and over 7 years of experience with GameMaker Studio. I also dabble in a bit of 6502 ASM</p>
+  <p>&emsp;I have over 5 years of experience in C and C++, about a few years of experience with Unity, C#, and Java, and over 7 years of experience with GameMaker Studio. I also dabble in a bit of 6502 ASM</p>
 </div>
